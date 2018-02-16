@@ -1,14 +1,19 @@
 {
   "name": "messageformat",
-  "version": "0.1",
-  "description": "MessageFormat.js to interpolate strings against some values.",
+  "version": "1.0.0",
+  "description": "",
   "main": "messageformat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/colvir/messageformat.git"
+    "url": "git+https://github.com/colvir/messageformat.git"
   },
-  "keywords": [
-    "messageformat"
-  ],
-  "license": "MIT"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colvir/messageformat/issues"
+  },
+  "homepage": "https://github.com/colvir/messageformat#readme"
 }
