@@ -1,0 +1,14 @@
+{
+  "name": "messageformat",
+  "version": "0.1",
+  "description": "MessageFormat.js to interpolate strings against some values.",
+  "main": "messageformat.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colvir/messageformat.git"
+  },
+  "keywords": [
+    "messageformat"
+  ],
+  "license": "MIT"
+}
